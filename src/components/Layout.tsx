@@ -34,7 +34,7 @@ export const Layout: React.FC<LayoutProps> = ({
                     <div className="flex items-center justify-between">
                         <div className="flex items-center gap-3">
                             <img src="/coins-logo.png" alt="COINS Logo" className="h-10 w-auto object-contain" />
-                            <h1 className="text-2xl font-bold text-primary-900 tracking-tight font-serif">COINS</h1>
+
                         </div>
 
                         <div className="relative">
